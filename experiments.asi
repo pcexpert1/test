@@ -70,16 +70,16 @@ public:
 
 			// Создаём TextDraw G-AC
 			stTextDrawTransmit ts;
-			ts.fX = 15.0f;
-			ts.fY = 429.0f;
+			ts.fX = 9.0f;
+			ts.fY = 433.0f;
 			ts.byteStyle = 1;
-			ts.fLetterWidth = 1.150f;
-			ts.fLetterHeight = 0.362f;
+			ts.fLetterWidth = 0.999f;
+			ts.fLetterHeight = 0.266f;
 			ts.fBoxWidth = 398.0f;
 			ts.fBoxHeight = 17.0f;
 			ts.byteOutline = 1;
-			ts.byteShadow = 0;
-			ts.dwLetterColor = -70;
+			ts.byteShadow = 1;
+			ts.dwLetterColor = -226;
 			ts.dwBackgroundColor = 0x4D4D4D50;
 			ts.dwBoxColor = 50;
 			ts.byteFlags = 1;
